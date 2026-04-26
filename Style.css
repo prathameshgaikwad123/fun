@@ -388,3 +388,7 @@ footer {
         font-size: 1.15rem;
     }
 }
+.github-chart {
+    text-align: center;
+    padding: 20px;
+}
